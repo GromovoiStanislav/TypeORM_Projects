@@ -1,4 +1,4 @@
-# Awesome Project Build with TypeORM
+## CRUD Operations on Multiple Tables
 
 Steps to run this project:
 
